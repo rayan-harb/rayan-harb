@@ -49,6 +49,7 @@ problem → prototype → test → measure → improve → ship
 
 ### Build queue
 
+- **[Uni-Time](https://github.com/rayan-harb/uni-time)** — an Excel/VBA student productivity and decision-support system
 - **StudyForge** — an all-in-one student study assistant
 - **Autonomous Sumo Robot** — a competition robot built to sense, decide, and act
 - **Operations & Data Lab** — practical analytics, dashboards, and automation projects
